@@ -4,3 +4,6 @@ set expandtab
 syntax on
 set number
 set paste
+set autoindent
+set linebreak
+set history=1000
